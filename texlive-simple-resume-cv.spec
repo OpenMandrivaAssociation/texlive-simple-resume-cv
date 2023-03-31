@@ -1,6 +1,6 @@
 Name:		texlive-simple-resume-cv
 Version:	43057
-Release:	1
+Release:	2
 Summary:	Template for a simple resume or curriculum vitae (CV), in XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simple-resume-cv
