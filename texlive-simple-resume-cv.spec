@@ -3,7 +3,7 @@ Version:	43057
 Release:	2
 Summary:	Template for a simple resume or curriculum vitae (CV), in XeLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simple-resume-cv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/simple-resume-cv
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simple-resume-cv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simple-resume-cv.doc.r%{version}.tar.xz
